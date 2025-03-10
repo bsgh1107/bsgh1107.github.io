@@ -18,7 +18,7 @@ This magnificent place is known as Surinsar. Surinsar is approximately 30 kilome
 
 On the way to Surinsar, there are numerous breathtaking hill viewpoints where you can stop, enjoy a plate of Maggi at local joints, and take in the enchanting natural beauty. One of the most famous viewpoints is Aithem Paragliding Point. If you're an adventure enthusiast, you can pause your journey and try paragliding, provided the activity is available that day, as it doesn't operate on a regular schedule. The paragliding take-off point requires a short trek of about 300 meters to reach the hilltop, while the landing point is a sandy bed along the Sardan Stream.
 
-![Paragliding-PicfromWeb](/assets/images/Paragliding.jpg)
+![Paragliding-PicfromWeb](/assets/images/para.jpg)
 
 
 When you reach Surinsar, you'll be greeted by a beautiful lake surrounded by hills and lush green landscapes, developed by the Surinsar-Mansar Tourism Development Authority, Jammu.
@@ -27,7 +27,7 @@ Surinsar Lake is one of the twin lakes in Jammu, with Mansar Lake being the othe
 
 At the center of the lake lies an island, known as "Breti" to the locals. This island is home to thousands of bats and migratory birds that visit seasonally. There's a small Nag Dev (Snake God) temple on the island, and locals believe that many snakes can be found if you get too close or put your feet near the island. In the past, a narrow strip of land once connected the island to the mainland, but over time, it has been submerged in the lake. If you take a boat ride close to the island, you can easily spot this submerged strip of land beneath the water.
 
-![Breti Island](/assets/images/breti.jpg)
+![Breti-Island](/assets/images/breti.jpg)
 
 
 The mythological history of Surinsar dates back to the Mahabharata. According to legend, Babruvahana, the brave son of Pandava warrior Arjuna, fought a battle with his father and defeated him. Unaware that Arjuna was his father, Babruvahana learned from his mother, Ulupi (daughter of the Serpent King), that the arrow he had shot had struck none other than his own father. To heal Arjuna, Lord Krishna advised Babruvahana to bring a "Mani" from "Patal Lok" (the underworld). Babruvahana shot an arrow at Surangsar (now Surinsar), fought a battle with the Nagas, and secured the Mani. To return, he shot another arrow from "Patal Lok," which emerged at Mansar (present-day Mansar). Over time, these two passages created in the earth filled with water and eventually became the Surinsar and Mansar lakes.
