@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Surinsar Lake, Jammu"
-date:   2022-05-14 14:56:02 +0530
+date:   2025-03-10
 categories: [blog, Travel]
+author: "Balbir Singh Aithemia"
 
 It was my maternal cousin's wedding, and I had to attend the ceremony, as it was the last wedding in my aunt's direct family. The event took place in a village about 22 kilometers from Jammu City.
 
