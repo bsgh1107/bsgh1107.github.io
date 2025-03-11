@@ -9,7 +9,7 @@ Welcome to my corner of the internet! I’m passionate about exploring the rich 
 
 # **My Interests**
 
-##Religious Tourism Across India
+## *Religious Tourism Across India*
 India is a land of diversity, with every corner offering something unique to the spiritually inclined traveler. From ancient temples to pilgrimage routes, I have made it my mission to explore the deep connections between faith, culture, and architecture across the country. I believe in the power of travel to not only enrich your soul but also to connect you with a history that dates back centuries.
 
 ## *Jyotirlingas*
