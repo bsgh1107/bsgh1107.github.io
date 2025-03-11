@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+[Back to Home]({{ '/' | https://bsgh1107.github.io/about/}})
 
 Welcome to my corner of the internet! I’m passionate about exploring the rich spiritual heritage and hidden treasures of India. Through my journey, I’ve developed a deep fascination with religious tourism, especially the sacred sites that hold immense historical, spiritual, and cultural significance.
 
@@ -23,7 +24,7 @@ The Char Dham Yatra is another significant part of my exploration, encompassing 
 ## *Unexplored Places and Hidden Gems*
 While India is home to numerous well-known pilgrimage sites, there’s an entire world of unexplored destinations that remain hidden from the mainstream. I enjoy venturing into lesser-known temples, sacred caves, and tranquil spots that offer a peaceful retreat from the hustle of daily life. These hidden gems provide a unique opportunity to experience India’s spiritual essence away from the crowds.
 
-[Back to Home]({{ '/' | https://bsgh1107.github.io/about/}})
+
 
 You can find the source code for Jekyll at GitHub:
 [jekyll][jekyll-organization] /
