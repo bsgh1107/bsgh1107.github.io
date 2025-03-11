@@ -1,28 +1,26 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+layout: page
+title:  "Welcome to Sacred trails and Hideen wonders!"
 date:   2025-03-10 14:56:02 +0530
-categories: jekyll update
+categories: "Religious and Travel"
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Welcome to my corner of the internet! I’m passionate about exploring the rich spiritual heritage and hidden treasures of India. Through my journey, I’ve developed a deep fascination with religious tourism, especially the sacred sites that hold immense historical, spiritual, and cultural significance.
+My Interests
 
-Jekyll requires blog post files to be named according to the following format:
+#Religious Tourism Across India
+India is a land of diversity, with every corner offering something unique to the spiritually inclined traveler. From ancient temples to pilgrimage routes, I have made it my mission to explore the deep connections between faith, culture, and architecture across the country. I believe in the power of travel to not only enrich your soul but also to connect you with a history that dates back centuries.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+#Jyotirlingas
+One of my primary interests lies in visiting the sacred Jyotirlingas, the 12 shrines dedicated to Lord Shiva. These temples hold profound religious significance and are some of the most revered pilgrimage sites in India. Each visit offers new insights into the mythology, history, and architecture that make these locations truly special.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+#Shaktipeetha
+The concept of Shaktipeetha, the 51 sacred shrines dedicated to Goddess Shakti, has always intrigued me. These temples are not just places of worship, but vibrant cultural hubs, steeped in ancient traditions and powerful energy. My journey to visit and explore these divine destinations has been both enlightening and transformative.
 
-Jekyll also offers powerful support for code snippets:
+#Chardhams
+The Char Dham Yatra is another significant part of my exploration, encompassing the four sacred pilgrimage sites of Yamunotri, Gangotri, Kedarnath, and Badrinath. These sites are an integral part of India’s spiritual landscape, drawing millions of pilgrims each year. I’ve had the privilege of walking this sacred route, soaking in the divine atmosphere that envelops each of these revered places.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+#Unexplored Places and Hidden Gems
+While India is home to numerous well-known pilgrimage sites, there’s an entire world of unexplored destinations that remain hidden from the mainstream. I enjoy venturing into lesser-known temples, sacred caves, and tranquil spots that offer a peaceful retreat from the hustle of daily life. These hidden gems provide a unique opportunity to experience India’s spiritual essence away from the crowds.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
