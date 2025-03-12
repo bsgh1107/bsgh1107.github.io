@@ -15,7 +15,7 @@ Dehi to Rajkot, 2hrs Flight.
 Rajkot to Dwarka, 4hrs Vande Bharat Train.  
 
 
-2 Night Hotel stay in Dwarka.  
+Two Night Hotel stay in Dwarka.  
 
 
 Taxi to Somnath via Porbandar and sight seeing, approx 5-6 hrs.  
@@ -29,7 +29,11 @@ Taxi back to Rajkot via Junghad and Tejpur.
 
 Rajkot to Delhi, Flight.  
 
+# *Route map from Delhi*  
 
+Refer route details in the google map:
+
+[Route map and transport details from Delhi](https://www.google.com/maps/d/edit?mid=1N-RyEmsIo8sXolTrFVX-da0s6csKgVY&ll=28.690277615437466%2C77.20161135646066&z=10)
 
 
 
