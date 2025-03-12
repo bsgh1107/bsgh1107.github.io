@@ -5,20 +5,30 @@ date:   2025-03-11
 categories: [blog, Travel]
 author: "Balbir Singh Aithemia"
 ---
+[Back to Home]({{ '/' | https://bsgh1107.github.io/about/}})  
+
 # *Itinerary*
-Dehi to Rajkot, 2hrs Flight.
+Dehi to Rajkot, 2hrs Flight.  
 
-Rajkot to Dwarka, 4hrs Vande Bharat Train.
 
-2 Night Hotel stay in Dwarka.
+Rajkot to Dwarka, 4hrs Vande Bharat Train.  
 
-Taxi to Somnath via Porbandar and sight seeing, approx 5-6 hrs.
 
-One night stay in Somnath.
+2 Night Hotel stay in Dwarka.  
 
-Taxi back to Rajkot via Junghad and Tejpur.
 
-Rajkot to Delhi, Flight.
+Taxi to Somnath via Porbandar and sight seeing, approx 5-6 hrs.  
+
+
+One night stay in Somnath.  
+
+
+Taxi back to Rajkot via Junghad and Tejpur.  
+
+
+Rajkot to Delhi, Flight.  
+
+
 
 
 

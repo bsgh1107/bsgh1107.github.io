@@ -3,7 +3,8 @@ layout: page
 title: Jyotirlingas
 permalink: /Jyotirlingas/
 ---
-[Back to Home]({{ '/' | https://bsgh1107.github.io/about/}})
+[Back to Home]({{ '/' | https://bsgh1107.github.io/about/}})  
+
 
 
 ## *Somnath – Prabhas Patan, near Veraval in Saurashtra, Gujarat*
