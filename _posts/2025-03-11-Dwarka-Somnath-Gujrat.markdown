@@ -7,6 +7,7 @@ author: "Balbir Singh Aithemia"
 ---
 [Back to Home]({{ '/' | https://bsgh1107.github.io/about/}})  
 
+
 # *Itinerary*
 Dehi to Rajkot, 2hrs Flight.  
 
