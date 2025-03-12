@@ -9,20 +9,13 @@ author: "Balbir Singh Aithemia"
 
 
 # *Itinerary: 3 night & 4 days*
-Day1: Dehi to Rajkot, 2hrs Flight.  
-
+Day1: Delhi to Rajkot, 2hrs Flight.  
 Day1: Rajkot to Dwarka, 4hrs Vande Bharat Train.  
-
 Night1: stay in a Hotel in dwarka.  
-
 Day2: Dwarkadish, Bet Dwarka, Nageshwar.  
-
 Night2: Stay in a Hotel in Dwarka.  
-
 Day3: Taxi to Somnath via Porbandar and sight seeing, approx 5-6 hrs.  
-
 Night3: Stay in a Hotel in Somnath.  
-
 Day4: Taxi back to Rajkot via Junghad and Tejpur.  
 Day4: Rajkot to Delhi, Flight.
  
