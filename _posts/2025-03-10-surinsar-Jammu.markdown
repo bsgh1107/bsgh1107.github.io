@@ -5,7 +5,7 @@ date:   2025-03-10
 categories: [blog, Travel]
 author: "Balbir Singh Aithemia"
 ---
-[Back to Home]({{ '/' | https://bsgh1107.github.io/about/}})  
+[Back to Home](https://bsgh1107.github.io/)  
 
 It was my maternal cousin's wedding, and I had to attend the ceremony, as it was the last wedding in my aunt's direct family. The event took place in a village about 22 kilometers from Jammu City.
 

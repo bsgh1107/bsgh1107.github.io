@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-[Back to Home](https://bsgh1107.github.io/about/)
+[Back to Home](https://bsgh1107.github.io/)
 
 Welcome to my corner of the internet! I’m passionate about exploring the rich spiritual heritage and hidden treasures of India. Through my journey, I’ve developed a deep fascination with religious tourism, especially the sacred sites that hold immense historical, spiritual, and cultural significance.
 

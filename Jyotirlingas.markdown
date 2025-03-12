@@ -3,7 +3,7 @@ layout: page
 title: Jyotirlingas
 permalink: /Jyotirlingas/
 ---
-[Back to Home](https://bsgh1107.github.io/about/)  
+[Back to Home](https://bsgh1107.github.io/)  
 
 
 ## *Somnath – Prabhas Patan, Veraval, Gujarat.*

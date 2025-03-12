@@ -5,7 +5,7 @@ date:   2025-03-11
 categories: [blog, Travel]
 author: "Balbir Singh Aithemia"
 ---
-[Back to Home](https://bsgh1107.github.io/about/)  
+[Back to Home](https://bsgh1107.github.io/)  
 
 
 # *Itinerary*
