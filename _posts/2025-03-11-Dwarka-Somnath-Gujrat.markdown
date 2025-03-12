@@ -6,10 +6,19 @@ categories: [blog, Travel]
 author: "Balbir Singh Aithemia"
 ---
 # *Itinerary*
-Dehi to Rajkit:     Flight, 2hrs.
-Rajkot to Dwarka:   Vande Bharat, 4 hrs.
-Hote in Dwarka:     2 night stay.
-Taxi to Somnath via Porbandar and sigh seeing, approx 7 hrs.
+Dehi to Rajkot, 2hrs Flight.
+
+Rajkot to Dwarka, 4hrs Vande Bharat Train.
+
+2 Night Hotel stay in Dwarka.
+
+Taxi to Somnath via Porbandar and sight seeing, approx 5-6 hrs.
+
+One night stay in Somnath.
+
+Taxi back to Rajkot via Junghad and Tejpur.
+
+Rajkot to Delhi, Flight.
 
 
 
