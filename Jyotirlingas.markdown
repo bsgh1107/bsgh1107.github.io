@@ -6,40 +6,42 @@ permalink: /Jyotirlingas/
 [Back to Home](https://bsgh1107.github.io/about/)  
 
 
-## *Somnath – Prabhas Patan, near Veraval in Saurashtra, Gujarat*
+## *Somnath – Prabhas Patan, near Veraval in Saurashtra, Gujarat.*
+
+[Go to Dwarkadish, Somnath & Nageshwar Post](https://bsgh1107.github.io/blog/travel/2025/03/11/Dwarka-Somnath-Gujrat.html)
 
 
-## *Mallikarjuna – Srisailam in Andhra Pradesh*
+## *Mallikarjuna – Srisailam in Andhra Pradesh.*
 
 
-## *Mahakaleshwar – Ujjain in Madhya Pradesh*
+## *Mahakaleshwar – Ujjain in Madhya Pradesh.*
 
 
-## *Omkareshwar – Mandhata Island in Khandwa district, Madhya Pradesh*
+## *Omkareshwar – Mandhata Island in Khandwa district, Madhya Pradesh.*
 
 
-## *Kedarnath – Kedarnath in Uttarakhand*
+## *Kedarnath – Kedarnath in Uttarakhand.*
 
 
-## *Bhimashankar – Pune district in Maharashtra*
+## *Bhimashankar – Pune district in Maharashtra.*
 
 
-## *Kashi Vishwanath – Varanasi in Uttar Pradesh*
+## *Kashi Vishwanath – Varanasi in Uttar Pradesh.*
 
 
-## *Trimbakeshwar (Trimbak) – Trimbak, near Nashik in Maharashtra*
+## *Trimbakeshwar (Trimbak) – Trimbak, near Nashik in Maharashtra.*
 
 
-## *Vaidyanath - Deoghar Jharkhand*
+## *Vaidyanath - Deoghar Jharkhand.*
 
 
-## *Nageshwar – Dwarka, Gujara*
+## *Nageshwar – Dwarka, Gujarat.*
 
 
-## *Ramanathaswamy – Rameswaram in Tamil Nadu*
+## *Ramanathaswamy – Rameswaram in Tamil Nadu.*
 
 
-## *Grishneshwar – Ellora, near Aurangabad in Maharashtra*
+## *Grishneshwar – Ellora, near Aurangabad in Maharashtra.*
 
 
 
