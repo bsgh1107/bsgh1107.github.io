@@ -3,8 +3,7 @@ layout: page
 title: Jyotirlingas
 permalink: /Jyotirlingas/
 ---
-[Back to Home](https://bsgh1107.github.io/)  
-
+[Back to Home](https://bsgh1107.github.io/)
 
 ## *Somnath – Prabhas Patan, Veraval, Gujarat.*
 Somnath is considered the first Jyotirlinga among the twelve. The name "Somnath" is derived from "Soma" (the Moon God) and "Nath" (Lord or Master). According to the legend, Soma (Chandra), the Moon God, was cursed by his father-in-law, Daksha, which caused his light to diminish. To regain his radiance, Soma prayed to Lord Shiva at Somnath, where Lord Shiva, pleased by his devotion, appeared in the form of a Jyotirlinga and restored his light.  
