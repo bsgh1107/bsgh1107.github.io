@@ -8,7 +8,7 @@ author: "Balbir Singh Aithemia"
 [Back to Home](https://bsgh1107.github.io/)  
 
 
-# *Itinerary: 3 night & 4 days*
+# **Itinerary: 3 night & 4 days**
 Day1: Delhi to Rajkot, 2hrs Flight.  
 Day1: Rajkot to Dwarka, 4hrs Vande Bharat Train.  
 Night1: stay in a Hotel in dwarka.  
@@ -19,14 +19,14 @@ Night3: Stay in a Hotel in Somnath.
 Day4: Taxi back to Rajkot via Junghad and Tejpur.  
 Day4: Rajkot to Delhi, Flight.
  
-# *Route map from Delhi*  
+# **Route map from Delhi** 
 
 Refer route details in the google map:
 
 [Route map and transport details from Delhi](https://www.google.com/maps/d/edit?mid=1N-RyEmsIo8sXolTrFVX-da0s6csKgVY&ll=28.690277615437466%2C77.20161135646066&z=10)
 
 
-# *Journey*
+# **Journey**
 Our journey started on the 12th of September, 2024, from Delhi. We were three friends traveling together—two from Delhi and one who had flown in from Varanasi to join us at Delhi Airport. Our flight was scheduled for 3:30 PM, but it got delayed by about an hour. We had already arrived at the airport and were relaxing in the Encalm Lounge with my brother-in-law, who is an executive at Encalm Hospitality.
 
 We reached Rajkot Airport around 6:30 PM and had to catch the Vande Bharat train from Rajkot Railway Junction at 9:00 PM. Rajkot Railway Station is about 25-30 km from the airport, so we hired a taxi and arrived at the railway station around 45 minutes early. Everyone was hungry, so we decided to grab some Gujarati delicacies outside the station to satisfy our hunger.
@@ -35,7 +35,7 @@ We boarded the Vande Bharat at 9:00 PM and arrived at Dwarka Junction around mid
 
 We stayed at VITS Devbhumi Hotel in Dwarka, which is a comfortable hotel to stay at. The Dwarkadish Temple's backside gate is about a 900-meter walk through narrow lanes from the hotel.
 
-## *Dwarkadish*
+## Dwarkadish
 We took blessings from Lord Dwarkadish early the next morning. The Dwarkadish Temple is one of the Char Dham pilgrimage sites and an important place of worship for followers of Sanatan Dharma.
 
 The temple is believed to have originally been built at the site where Lord Krishna established the city of Dwarka. According to Hindu texts, Krishna moved from Mathura to Dwarka primarily to protect his people from the repeated attacks of Jarasandha, the King of Magadh, who sought revenge for the killing of his son-in-law, Kamsa, by Krishna.
