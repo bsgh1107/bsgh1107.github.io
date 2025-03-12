@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-[Back to Home]({{ '/' | https://bsgh1107.github.io/about/}})
+[Back to Home](https://bsgh1107.github.io/about/)
 
 Welcome to my corner of the internet! I’m passionate about exploring the rich spiritual heritage and hidden treasures of India. Through my journey, I’ve developed a deep fascination with religious tourism, especially the sacred sites that hold immense historical, spiritual, and cultural significance.
 
@@ -17,6 +17,10 @@ One of my primary interests lies in visiting the sacred Jyotirlingas, the 12 shr
 
 ## *Shaktipeetha*
 The concept of Shaktipeetha, the 51 sacred shrines dedicated to Goddess Shakti, has always intrigued me. These temples are not just places of worship, but vibrant cultural hubs, steeped in ancient traditions and powerful energy. My journey to visit and explore these divine destinations has been both enlightening and transformative.
+
+
+## *Chardhams Piligrimage*
+The Char Dham pilgrimage is a sacred circuit that spans the entire Indian subcontinent, symbolizing the completeness of existence and spiritual devotion. Each of these four destinations honors a different deity: Lord Vishnu (Badrinath and Dwarka), Lord Krishna (Jagannath Puri and Dwarka), and Lord Shiva (Rameswaram).  
 
 ## *Chardhams*
 The Char Dham Yatra is another significant part of my exploration, encompassing the four sacred pilgrimage sites of Yamunotri, Gangotri, Kedarnath, and Badrinath. These sites are an integral part of India’s spiritual landscape, drawing millions of pilgrims each year. I’ve had the privilege of walking this sacred route, soaking in the divine atmosphere that envelops each of these revered places.
