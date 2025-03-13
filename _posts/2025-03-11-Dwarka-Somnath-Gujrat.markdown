@@ -48,14 +48,14 @@ The temple features two significant gateways: Swarga Dwar (Gate to Heaven) and M
 
 ![Dwarkadish Temple](/assets/images/Dwarkadish.jpg)
 
-## 12. Rukmani Temple
+## 2. Rukmani Temple
 After taking blessings from Lord Krishna at the Dwarkadish Temple, we hired a cab to visit the Rukmini Temple, Bet Dwarka, and the Nageshwar Jyotirlinga.
 
 The Rukmini Devi Temple in Dwarka, dedicated to Lord Krishna's beloved consort Rukmini, is a significant landmark located about 2 km from the Dwarkadish Temple. It lies on the route towards Bet Dwarka via Okha. The temple is believed to be more than 2500 years old, although the current structure likely dates back to the 12th century.
 
 According to legend, once Rukmini and Krishna invited Guru Durvasa, a sage known for his short temper, to their palace for a meal. However, Guru Durvasa set a condition: he would only visit if Rukmini and Krishna themselves pulled his chariot to the venue. They agreed to this request.
 
-As a queen, Rukmini was not accustomed to such physical labor, and after a while, she became thirsty. Krishna, understanding her discomfort, pressed his right toe onto the Earth. From the place where his toe touched the ground, the Ganga river emerged, and Rukmini quenched her thirst.
+As a queen, Rukmini was not accustomed to sucRukminih physical labor, and after a while, she became thirsty. Krishna, understanding her discomfort, pressed his right toe onto the Earth. From the place where his toe touched the ground, the Ganga river emerged, and Rukmini quenched her thirst.
 
 However, in her moment of relief, Rukmini forgot to offer the water to Guru Durvasa, which greatly angered him. In his rage, he cursed that Krishna and Rukmini would never be together. This is believed to be the reason the Rukmini Devi Temple is located away from Dwarka.
 
@@ -63,9 +63,39 @@ Additionally, Guru Durvasa cursed that Dwarka would always remain a barren land,
 
 The sweet water well that emerged from the spot where Krishna pressed his toe still exists in a nearby village. Unfortunately, we couldn't visit that place during our trip.
 
-Rukmini is considered an incarnation of the Hindu goddess Lakshmi and is one of Krishna's principal queens.
+ Rukmani is considered an incarnation of the Hindu goddess Lakshmi and is one of Krishna's principal queens.
 
 ![Rukmani Devi Temple](/assets/images/Rukmanidevi.jpg)
+
+## 3. Bet Dwarka
+On our way to Bet Dwarka, we passed through Mithapur, home to one of the largest Tata Chemicals plants, and the recently inaugurated Sudharshan Setu Bridge, which connects Okha and Bet Dwarka. The bridge, which opened to the public in February 2024, has significantly reduced travel time. Previously, travelers had to take a boat or ferry from Okha Port to reach Bet Dwarka.
+
+Bet Dwarka, also known as Shankhodhar, holds immense religious and historical significance as the ancient port city and the believed residence of Lord Krishna. It is intricately linked to the story of Krishna and Sudama’s friendship. The name "Bet" is derived from the word "gift," symbolizing the gift Lord Krishna received from his friend Sudama. In the ancient epic Mahabharata, Bet Dwarka was referred to as ‘Antardvipa,’ and it was a place to which the Yadava clan had to travel by boat.
+
+Explorations and excavations carried out beneath the sea have uncovered ancient settlements, some of which date back to the Harappan civilization and the Mauryan era, shedding light on the region’s long and rich history.
+
+In addition to the main Krishna temple, Bet Dwarka houses several other temples dedicated to Hanuman, Vishnu, Shiva, Lakshmi Narayan, Jambavati, and Devi, making it a spiritual hub.
+
+One of my friends on this trip has a close connection with one of the priests at the Bet Dwarka temple. Thanks to his connection, we were fortunate enough to gain access to each temple in the complex and receive blessings.
+
+In the temple complex, there is a unique belief that visitors can donate rice or money, and in return, they receive a small portion of the rice to take home. The belief is that if you keep the rice in your kitchen, it will ensure that you never face scarcity of food in your home.
+
+![Sudharshan Setu](/assets/images/SudharshanSetu.jpg)
+
+
+## 4. Nageshwar Jyotilinga.
+On our way back to Dwarka mainland from Bet Dwarka, we visited Nageshwar. To reach Nageshwar, you need to take a left turn from Mithapur, and it is only about 10-12 kilometers from Mithapur. Nageshwar is home to the tenth Jyotirlinga temple.
+
+According to legend, a demon named Daruka imprisoned a Shiva devotee named Supriya in his city, Darukavana. Supriya's chants of "Om Namah Shivaya" invoked Lord Shiva, who defeated the demon. A self-manifested Shivalinga then appeared, which is now revered as the Nageshwar Jyotirlinga.
+
+Inside the temple, there is a medium-sized Nageshwar Jyotirlinga. A silver snake is placed on top of the linga, which is always covered with a silver cloth, symbolizing the sanctity of the structure. Behind the linga, an idol of the Mother Goddess Parvati stands elegantly.  
+We took blessings from Lord Shiva and performed a special darshan with Jal Abhishek. We were fortunate enough to get close to the Shiva Linga and carry out the Jal Abhishek. Since there weren't many devotees in the temple that day, we had the opportunity to spend a good amount of time exploring the temple complex as well.
+
+![Nageshwar Jyotirlinga Temple](/assets/images/JyotirlingaTemple.jpg)  ![Nageshwar Jyotirlinga](/assets/images/Jyotirlinga.jpg)
+
+
+
+
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
