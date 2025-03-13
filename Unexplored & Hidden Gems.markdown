@@ -19,9 +19,6 @@ Sariyatal Lake is a beautiful, serene lake located near Nainital in the state of
 
 [Go to Sariyatal, Nanital Post](https://bsgh1107.github.io/blog/travel/2025/03/13/Sariyatal-Nanital.html)
 
-
-
-
 You can find the source code for Jekyll at GitHub:
 [jekyll][jekyll-organization] /
 [jekyll](https://github.com/jekyll/jekyll)
