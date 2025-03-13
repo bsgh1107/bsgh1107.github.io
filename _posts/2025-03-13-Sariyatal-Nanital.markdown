@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sariyatal, Nanital"
+title:  "Sariyatal & Neem Karoli, Nanital"
 date:   2025-03-13
 categories: [blog, Travel]
 author: "Balbir Singh Aithemia"
@@ -8,7 +8,7 @@ author: "Balbir Singh Aithemia"
 [Back to Home](https://bsgh1107.github.io/)  
 
 
-# **Itinerary: 3 night & 4 days**
+# **Itinerary: 2 night & 3 days**
  under dev
  
 # **Route map from Delhi** 

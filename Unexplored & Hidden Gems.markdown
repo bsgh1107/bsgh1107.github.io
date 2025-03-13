@@ -17,7 +17,7 @@ Surinsar and Mansar Lakes are two picturesque and sacred lakes located in the Ja
 ## *1. Sariyatal Lake, Nanital, Uttrakhand*
 Sariyatal Lake is a beautiful, serene lake located near Nainital in the state of Uttarakhand, India. Situated about 6 kilometers from Nainital, Sariyatal is a lesser-known but stunning destination surrounded by lush forests and rolling hills, offering a peaceful and tranquil retreat. The lake is nestled at an elevation of around 2,000 meters above sea level and is often visited by nature lovers, trekkers, and those seeking solitude.  
 
-[Go to Sariyatal, Nanital Post](https://bsgh1107.github.io/blog/travel/2025/03/10/surinsar-Jammu.html)
+[Go to Sariyatal, Nanital Post](https://bsgh1107.github.io/blog/travel/2025/03/13/Sariyatal-Nanital.html)
 
 
 
