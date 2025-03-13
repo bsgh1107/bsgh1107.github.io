@@ -80,10 +80,9 @@ One of my friends on this trip has a close connection with one of the priests at
 
 In the temple complex, there is a unique belief that visitors can donate rice or money, and in return, they receive a small portion of the rice to take home. The belief is that if you keep the rice in your kitchen, it will ensure that you never face scarcity of food in your home.
 
-![Sudharshan Setu](/assets/images/SudharshanSetu.jpg)
 
 
-## 4. Nageshwar Jyotilinga.
+## 4. Nageshwar Jyotilinga
 On our way back to Dwarka mainland from Bet Dwarka, we visited Nageshwar. To reach Nageshwar, you need to take a left turn from Mithapur, and it is only about 10-12 kilometers from Mithapur. Nageshwar is home to the tenth Jyotirlinga temple.
 
 According to legend, a demon named Daruka imprisoned a Shiva devotee named Supriya in his city, Darukavana. Supriya's chants of "Om Namah Shivaya" invoked Lord Shiva, who defeated the demon. A self-manifested Shivalinga then appeared, which is now revered as the Nageshwar Jyotirlinga.
@@ -91,10 +90,18 @@ According to legend, a demon named Daruka imprisoned a Shiva devotee named Supri
 Inside the temple, there is a medium-sized Nageshwar Jyotirlinga. A silver snake is placed on top of the linga, which is always covered with a silver cloth, symbolizing the sanctity of the structure. Behind the linga, an idol of the Mother Goddess Parvati stands elegantly.  
 We took blessings from Lord Shiva and performed a special darshan with Jal Abhishek. We were fortunate enough to get close to the Shiva Linga and carry out the Jal Abhishek. Since there weren't many devotees in the temple that day, we had the opportunity to spend a good amount of time exploring the temple complex as well.
 
-![Nageshwar Jyotirlinga Temple](/assets/images/JyotirlingaTemple.jpg)  ![Nageshwar Jyotirlinga](/assets/images/Jyotirlinga.jpg)
+![Nageshwar Jyotirlinga Temple](/assets/images/JyotirlingaTemple.jpg)
 
 
+## 5. Back to Dwarka
+We arrived in Dwarka late in the afternoon and went straight to our hotel to rest. The distance from Nageshwar Jyotirlinga to Dwarka is only about 15-17 km, which takes roughly 30 minutes to cover.
 
+In the evening, we visited the Dwarka Sunset Point, Lighthouse, and Bhadkeshwar Mahadev Temple, all situated along the stunning Arabian Sea coastline. The charm of the Sunset Point, the Lighthouse, and the Bhadkeshwar Mahadev Temple made the experience even more unforgettable. It’s easy to lose track of time as you sit there, mesmerized by the endless waves of the Arabian Sea crashing against the concrete barriers along the shore.
+
+Later in the evening, we made our way to the Dwarkadish Temple, which is just about 1 km from the coastal attractions, to offer our prayers and seek blessings.
+![Bhadkeshwar Mahadev](/assets/images/Bhadkeshwar.jpg)
+
+![Dwarka View](/assets/images/Dwarka.jpg)
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
