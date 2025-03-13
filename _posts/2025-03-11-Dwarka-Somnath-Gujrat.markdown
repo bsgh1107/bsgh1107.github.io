@@ -104,6 +104,9 @@ Later in the evening, we made our way to the Dwarkadish Temple, which is just ab
 ![Dwarka View](/assets/images/Dwarka.jpg)
 
 
+## 6. Road trip to Somnath
+we woke early next morning and boarded our hired taxi. 
+
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/

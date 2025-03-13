@@ -40,7 +40,8 @@ The present-day Somnath temple  was built by Sardar Vallabhbhai Patel, India's f
 
 
 ## *Nageshwar – Dwarka, Gujarat.*
-
+Nageshwar is home to the tenth Jyotirlinga temple. According to legend, a demon named Daruka imprisoned a Shiva devotee named Supriya in his city, Darukavana. Supriya's chants of "Om Namah Shivaya" invoked Lord Shiva, who defeated the demon. A self-manifested Shivalinga then appeared, which is now revered as the Nageshwar Jyotirlinga.
+[Go to Dwarkadish, Somnath & Nageshwar Post](https://bsgh1107.github.io/blog/travel/2025/03/11/Dwarka-Somnath-Gujrat.html)
 
 ## *Ramanathaswamy – Rameswaram in Tamil Nadu.*
 
