@@ -9,17 +9,17 @@ author: "Balbir Singh Aithemia"
 
 
 # **Itinerary: 3 night & 4 days**
- under build
+ under dev
  
 # **Route map from Delhi** 
 
-Refer route details in the google map:
+Refer route details in the google map:  
+under dev
 
-under build
 
 
 # **Journey**
-under build
+under dev
 
 
 
