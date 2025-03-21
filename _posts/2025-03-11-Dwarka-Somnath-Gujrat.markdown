@@ -133,9 +133,9 @@ We left early the next morning from Somnath in the hired taxi and headed towards
 
 Our flight to Delhi was in the evening, but we reached Rajkot by the afternoon. We had lunch at a mall in Rajkot city and then boarded our flight back to Delhi.  
 
-    
-       
-# Har Har Mahadev !!!
+
+
+# Har Har Mahadev !!!!
 Thanks to my friends, Saurabh and Atmesh, who joined me on this my trips.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
