@@ -55,7 +55,7 @@ The Rukmini Devi Temple in Dwarka, dedicated to Lord Krishna's beloved consort R
 
 According to legend, once Rukmini and Krishna invited Guru Durvasa, a sage known for his short temper, to their palace for a meal. However, Guru Durvasa set a condition: he would only visit if Rukmini and Krishna themselves pulled his chariot to the venue. They agreed to this request.
 
-As a queen, Rukmini was not accustomed to sucRukminih physical labor, and after a while, she became thirsty. Krishna, understanding her discomfort, pressed his right toe onto the Earth. From the place where his toe touched the ground, the Ganga river emerged, and Rukmini quenched her thirst.
+As a queen, Rukmini was not accustomed to physical labor, and after a while, she became thirsty. Krishna, understanding her discomfort, pressed his right toe onto the Earth. From the place where his toe touched the ground, the Ganga river emerged, and Rukmini quenched her thirst.
 
 However, in her moment of relief, Rukmini forgot to offer the water to Guru Durvasa, which greatly angered him. In his rage, he cursed that Krishna and Rukmini would never be together. This is believed to be the reason the Rukmini Devi Temple is located away from Dwarka.
 
@@ -76,7 +76,7 @@ Explorations and excavations carried out beneath the sea have uncovered ancient 
 
 In addition to the main Krishna temple, Bet Dwarka houses several other temples dedicated to Hanuman, Vishnu, Shiva, Lakshmi Narayan, Jambavati, and Devi, making it a spiritual hub.
 
-One of my friends on this trip has a close connection with one of the priests at the Bet Dwarka temple. Thanks to his connection, we were fortunate enough to gain access to each temple in the complex and receive blessings.
+One of my friends on this trip had a close connection with one of the priests at the Bet Dwarka temple. Thanks to his connection, we were fortunate enough to gain access to each temple in the complex and receive blessings.
 
 In the temple complex, there is a unique belief that visitors can donate rice or money, and in return, they receive a small portion of the rice to take home. The belief is that if you keep the rice in your kitchen, it will ensure that you never face scarcity of food in your home.
 
@@ -98,7 +98,7 @@ We arrived in Dwarka late in the afternoon and went straight to our hotel to res
 
 In the evening, we visited the Dwarka Sunset Point, Lighthouse, and Bhadkeshwar Mahadev Temple, all situated along the stunning Arabian Sea coastline. The charm of the Sunset Point, the Lighthouse, and the Bhadkeshwar Mahadev Temple made the experience even more unforgettable. It’s easy to lose track of time as you sit there, mesmerized by the endless waves of the Arabian Sea crashing against the concrete barriers along the shore.
 
-Later in the evening, we made our way to the Dwarkadish Temple, which is just about 1 km from the coastal attractions, to offer our prayers and seek blessings.
+Later in the evening, we made our way to the Dwarkadish Temple again, which is just about 1 km from the coastal attractions, to offer our prayers and seek blessings.
 ![Bhadkeshwar Mahadev](/assets/images/Bhadkeshwar.jpg)
 
 ![Dwarka View](/assets/images/Dwarka.jpg)
@@ -111,7 +111,7 @@ Porbandar is approximately 110 km from Dwarka. We reached Dwarka and visited the
 
 We then headed to Somnath, reached  there around the afternoon. After checking in at Hotel Sagar Darshan, a guesthouse managed by the Reliance Foundation, we were greeted with stunning views of the Arabian Sea. This hotel offers a spectacular view, and you can spend hours in the evening watching the tides and enjoying the magnificent sunset.
 
-After freshening up, we headed straight to the Somnath Mahadev Darshan, which is just a walking distance from the hotel. We performed the Rudrabhishek in the old Somnath Temple, built by Rani Ahilya Bai Holkar, and then sought blessings from Mahadev in the main grand temple, which was built in the 1950s by Sardar Vallabhbhai Patel.
+After freshening up, we headed straight to the Somnath Mahadev Darshan, which is just a walking distance from the hotel. We performed the Rudrabhishek in the old Somnath Temple, built by Rani Ahilya Bai Holkar in 1780s, and then sought blessings from Mahadev in the main grand temple, which was built in the 1950s by Sardar Vallabhbhai Patel.
 
 In the evening, we spent hours at the coast of the Arabian Sea, marveling at the grandeur of the Somnath Temple. We clicked many breathtaking pictures of the temple and its surroundings.
 
