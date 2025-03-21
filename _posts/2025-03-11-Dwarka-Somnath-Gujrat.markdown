@@ -109,7 +109,7 @@ We woke up early the next morning, boarded our hired taxi, and left for Somnath.
 
 Porbandar is approximately 110 km from Dwarka. We reached Dwarka and visited the Sudhama Temple, which is dedicated to Sudama, a poor Brahmin and a childhood friend of Lord Krishna. After that, we visited the Kirti Mandir, Gandhi’s birthplace. The interior of the building houses a variety of photographs, articles, and mementos from Gandhi’s life.
 
-We then headed to Somnath, reaching there around the afternoon. After checking in at Hotel Sagar Darshan, a guesthouse managed by the Reliance Foundation, we were greeted with stunning views of the Arabian Sea. This hotel offers a spectacular view, and you can spend hours in the evening watching the tides and enjoying the magnificent sunset.
+We then headed to Somnath, reached  there around the afternoon. After checking in at Hotel Sagar Darshan, a guesthouse managed by the Reliance Foundation, we were greeted with stunning views of the Arabian Sea. This hotel offers a spectacular view, and you can spend hours in the evening watching the tides and enjoying the magnificent sunset.
 
 After freshening up, we headed straight to the Somnath Mahadev Darshan, which is just a walking distance from the hotel. We performed the Rudrabhishek in the old Somnath Temple, built by Rani Ahilya Bai Holkar, and then sought blessings from Mahadev in the main grand temple, which was built in the 1950s by Sardar Vallabhbhai Patel.
 
@@ -133,8 +133,12 @@ We left early the next morning from Somnath in the hired taxi and headed towards
 
 Our flight to Delhi was in the evening, but we reached Rajkot by the afternoon. We had lunch at a mall in Rajkot city and then boarded our flight back to Delhi.
 
+
+
+
+
 # Har Har Mahadev !!!
-Thanks to my friends, Saurabh and Atmesh, who joined me on most of my religious trips.
+Thanks to my friends, Saurabh and Atmesh, who joined me on this my trips.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
