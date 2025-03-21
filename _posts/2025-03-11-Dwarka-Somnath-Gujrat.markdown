@@ -131,11 +131,10 @@ Ahilya Bai Holkar built and renovated several famous temples across India, inclu
 ## 6. Back to Rajkot via Tejpur.
 We left early the next morning from Somnath in the hired taxi and headed towards Rajkot. We passed through Junagadh and made a brief stop in Tejpur, a garment industry town famous for its sarees. We bought some ladies' clothing there and then continued our journey towards Rajkot.
 
-Our flight to Delhi was in the evening, but we reached Rajkot by the afternoon. We had lunch at a mall in Rajkot city and then boarded our flight back to Delhi.
-  
+Our flight to Delhi was in the evening, but we reached Rajkot by the afternoon. We had lunch at a mall in Rajkot city and then boarded our flight back to Delhi.  
+
     
-      
-      
+       
 # Har Har Mahadev !!!
 Thanks to my friends, Saurabh and Atmesh, who joined me on this my trips.
 
