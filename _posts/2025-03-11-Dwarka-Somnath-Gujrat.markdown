@@ -105,7 +105,36 @@ Later in the evening, we made our way to the Dwarkadish Temple, which is just ab
 
 
 ## 6. Road trip to Somnath
-we woke early next morning and boarded our hired taxi. 
+We woke up early the next morning, boarded our hired taxi, and left for Somnath. The journey took us along the coastal highway, NH 51, offering a glimpse of the endless Arabian Sea on one side. Passing through small fishing villages, the occasional flock of seabirds added to the charm. The contrast between the green land, salt-encrusted earth, and the blue sea is something you’ll find hard to forget.
+
+Porbandar is approximately 110 km from Dwarka. We reached Dwarka and visited the Sudhama Temple, which is dedicated to Sudama, a poor Brahmin and a childhood friend of Lord Krishna. After that, we visited the Kirti Mandir, Gandhi’s birthplace. The interior of the building houses a variety of photographs, articles, and mementos from Gandhi’s life.
+
+We then headed to Somnath, reaching there around the afternoon. After checking in at Hotel Sagar Darshan, a guesthouse managed by the Reliance Foundation, we were greeted with stunning views of the Arabian Sea. This hotel offers a spectacular view, and you can spend hours in the evening watching the tides and enjoying the magnificent sunset.
+
+After freshening up, we headed straight to the Somnath Mahadev Darshan, which is just a walking distance from the hotel. We performed the Rudrabhishek in the old Somnath Temple, built by Rani Ahilya Bai Holkar, and then sought blessings from Mahadev in the main grand temple, which was built in the 1950s by Sardar Vallabhbhai Patel.
+
+In the evening, we spent hours at the coast of the Arabian Sea, marveling at the grandeur of the Somnath Temple. We clicked many breathtaking pictures of the temple and its surroundings.
+
+Rani Ahilya Bai Holkar was a devoted follower of Lord Shiva. She believed in Shiva's benevolence and regarded him as the ultimate deity to guide and protect her and her kingdom. Her faith in Lord Shiva was an essential part of her identity as a ruler.
+
+Ahilya Bai Holkar built and renovated several famous temples across India, including Somnath, Kashi Vishwanath Temple, Mahakaleshwar, and the Indore Shiva Temple, to name a few. One interesting aspect of her devotion to Shiva was that her official kingdom letters carried the Shiva symbol, and in her signature, she often used the phrase "Shiva Samrajya" to represent her reign.
+
+![Dwarka View](/assets/images/Sudhama.jpg)
+
+![Dwarka View](/assets/images/Kirti.jpg)
+
+![Dwarka View](/assets/images/Somnath.jpg)
+
+![Dwarka View](/assets/images/SomnathTemple.jpg)
+
+
+## 6. Back to Rajkot via Tejpur.
+We left early the next morning from Somnath in the hired taxi and headed towards Rajkot. We passed through Junagadh and made a brief stop in Tejpur, a garment industry town famous for its sarees. We bought some ladies' clothing there and then continued our journey towards Rajkot.
+
+Our flight to Delhi was in the evening, but we reached Rajkot by the afternoon. We had lunch at a mall in Rajkot city and then boarded our flight back to Delhi.
+
+# Har Har Mahadev !!!
+Thanks to my friends, Saurabh and Atmesh, who joined me on most of my religious trips.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
