@@ -9,11 +9,11 @@ author: "Balbir Singh Aithemia"
 
 
 # **Itinerary: 2 night & 3 days**
-Day1: Gurgaon to Nanital, approx 6-7 hrs drive.   
-Night1: stay in a Hotel in Nanital.  
-Day2: Himalyan Darshan point, Lovers point, Sariyatal.  
-Night2: Stay in a Hotel in Nanital.  
-Day3: Neem Karoli Dham and back to delhi.  
+Day1    : Gurgaon to Nanital, approx 6-7 hrs drive.   
+Night1  : Stay in a Hotel in Nanital.  
+Day2    : Himalyan Darshan point, Lovers point, Sariyatal.  
+Night2  : Stay in a Hotel in Nanital.  
+Day3    : Neem Karoli Dham and back to delhi.  
  
 # **Route map from Delhi** 
 
