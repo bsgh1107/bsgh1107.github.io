@@ -17,8 +17,7 @@ Surinsar and Mansar Lakes are two picturesque and sacred lakes located in the Ja
 Sudh Mahadev is a revered Hindu pilgrimage site situated in the Chenani tehsil of Udhampur district, in the Jammu region of Jammu and Kashmir.   
   
     
-[Go to SudhMahadave, Gaurikund  & Mantalai Post](https://bsgh1107.github.io/blog/travel/2025/03/13/Sariyatal-Nanital.html)    
-
+[Go to SudhMahadave, Gaurikund  & Mantalai Post](https://bsgh1107.github.io/blog/travel/2025/05/16/SudhMahadev-Gaurikund-Mantalai.html)
 
 
 # **Uttrakhand**
