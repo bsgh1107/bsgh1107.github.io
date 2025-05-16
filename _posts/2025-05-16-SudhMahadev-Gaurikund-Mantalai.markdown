@@ -10,7 +10,7 @@ author: "Balbir Singh Aithemia"
 
 # **Itinerary: 1 night 2 Days from Jammu**
 Day1    : 3.5-4 hrs Taxi/own Car drive to Patnitop, explore Patnitop Hills  
-Night1  : Night Stay at Patnitop or Chenani.
+Night1  : Night Stay at Patnitop or Chenani.  
 Day2:   : Visit GauriKund, SudhMahade, Mantalai & back to Jammu 
  
 # **Route map from Delhi** 
