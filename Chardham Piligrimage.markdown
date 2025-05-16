@@ -5,11 +5,11 @@ permalink: /ChardhamsPiligrimage/
 ---
 [Back to Home](https://bsgh1107.github.io/)
 
-## *Jagannath Temple, Puri-Odisha (East).*
+## *1. Jagannath Temple, Puri-Odisha (East).*
 
 
 
-## *Dwarkadheesh Temple, Dwarka-Gujrat (West).*
+## *2. Dwarkadheesh Temple, Dwarka-Gujrat (West).*
 
 The Dwarkadhish Temple, also known as the Jagat Mandir, is a revered Hindu shrine dedicated to Lord Krishna, located in the coastal city of Dwarka, Gujarat. It is one of the four sacred Char Dham pilgrimage sites, representing the western point of the spiritual circuit established by Adi Shankaracharya.
 
@@ -21,8 +21,8 @@ Architecturally, the temple is a five-storied structure made of limestone and sa
 [Go to Dwarkadeesh, Somnath & Nageshwar Post](https://bsgh1107.github.io/blog/travel/2025/03/11/Dwarka-Somnath-Gujrat.html)
 
 
-## *Badrinath Temple, Badrinath-Uttarakhand (North).*
+## *3. Badrinath Temple, Badrinath-Uttarakhand (North).*
 
 
-## *Ramanathaswamy Temple, Rameswaram-Tamil Nadu (South).*
+## *4. Ramanathaswamy Temple, Rameswaram-Tamil Nadu (South).*
 

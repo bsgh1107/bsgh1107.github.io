@@ -5,17 +5,17 @@ permalink: /Chardhams/
 ---
 [Back to Home](https://bsgh1107.github.io/)
 
-## *Gangotri, Uttarakhand.*
+## *1. Gangotri, Uttarakhand.*
 
 
 
-## *Yamunotri, Uttarakhand.*
+## *2.Yamunotri, Uttarakhand.*
 
 
-## *Kedarnath, Uttarakhand.*
+## *3. Kedarnath, Uttarakhand.*
 
 
-## *Badrinath, Uttarakhand .*
+## *4. Badrinath, Uttarakhand .*
 
 
 
