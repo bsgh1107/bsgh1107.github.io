@@ -9,20 +9,21 @@ author: "Balbir Singh Aithemia"
 
 
 # **Itinerary: 1 night 2 Days from Jammu**
-Day1    : 3.5-4 hrs Taxi/own Car drive to Patnitop, explore Patnitop Hills
+Day1    : 3.5-4 hrs Taxi/own Car drive to Patnitop, explore Patnitop Hills  
 Night1  : Night Stay at Patnitop or Chenani.
 Day2:   : Visit GauriKund, SudhMahade, Mantalai & back to Jammu 
  
 # **Route map from Delhi** 
 
 Refer route details in the google map:  
-[Route map and transport details from Delhi](https://www.google.com/maps/d/edit?mid=1o-pitHG1ZW724yb87mNDr3aLWwWUUuY&ll=28.93232780838213%2C78.29346499999998&z=9)
+[Route map and transport details from Jammu](https://www.google.com/maps/d/edit?mid=13CD9ozoea4_UbIquEV9do-cdnwUTiAA&ll=32.904551540807965%2C75.11252999999999&z=11)  
+
 
 
 # **Journey**
 Jammu is my hometown, and I was visiting with my family to attend my cousin’s wedding in a village located about 22 kilometers from Jammu city. On the 5th of May, the Barat-wedding procession was scheduled to travel to Ramban, a small hill town situated beyond Udhampur and Patnitop.
 
-Along with two of my cousins and my elder brother, I accompanied the Barat in a car from Jammu to Ramban. After the ceremonial dinner in Ramban was concluded, we decided to stay overnight in Patnitop, with plans to visit Sudhmahadev the following day. 
+Along with two of my cousins and my elder brother, I accompanied the Barat in a car from Jammu to Ramban. After the ceremonial dinner in Ramban was concluded, we decided to stay overnight in Patnitop, with plans to visit Sudh Mahadev the following day. 
 
 
 ## 1. Patnitop
