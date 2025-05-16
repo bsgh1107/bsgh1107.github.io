@@ -13,7 +13,7 @@ Day1    : 3.5-4 hrs Taxi/own Car drive to Patnitop, explore Patnitop Hills
 Night1  : Night Stay at Patnitop or Chenani.  
 Day2:   : Visit GauriKund, SudhMahade, Mantalai & back to Jammu 
  
-# **Route map from Delhi** 
+# **Route map from Jammu** 
 
 Refer route details in the google map:  
 [Route map and transport details from Jammu](https://www.google.com/maps/d/edit?mid=13CD9ozoea4_UbIquEV9do-cdnwUTiAA&ll=32.904551540807965%2C75.11252999999999&z=11)  
@@ -69,9 +69,5 @@ Unfortunately, due to a tight schedule, I couldn’t visit Mantalai this time. H
   
 
 
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
 
 
