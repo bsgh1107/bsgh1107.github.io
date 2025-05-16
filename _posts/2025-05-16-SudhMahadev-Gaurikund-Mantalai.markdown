@@ -65,6 +65,13 @@ We reached the Sudh Mahadev temple around 8:30 AM after visiting Gaurikund. Afte
 ## 4. Mantalai
 Mantalai, located just a few kilometers from the Sudh Mahadev temple, is believed to be the birthplace of Goddess Parvati and holds immense spiritual significance. Surrounded by dense forests and scenic landscapes, this sacred site is also associated with the divine union of Lord Shiva and Parvati.
 
-Unfortunately, due to a tight schedule, I couldn’t visit Mantalai this time. However, I definitely plan to explore it during my next trip and delve deeper into its rich mythology and serene beauty.
+Unfortunately, due to a tight schedule, I couldn’t visit Mantalai this time. However, I definitely plan to explore it during my next trip and delve deeper into its rich mythology and serene beauty.  
+  
+
+
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
 
 
