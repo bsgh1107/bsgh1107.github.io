@@ -11,7 +11,10 @@ permalink: /Unexplored Places & Hidden Gems/
 ## *1. Surinsar and Mansar Lake, Jammu*
 Surinsar and Mansar Lakes are two picturesque and sacred lakes located in the Jammu region of Jammu and Kashmir, India. These lakes are not only known for their natural beauty but also hold religious significance for Hindus.  
 
-[Go to Surinsar Post](https://bsgh1107.github.io/blog/travel/2025/03/10/surinsar-Jammu.html)
+[Go to Surinsar Post](https://bsgh1107.github.io/blog/travel/2025/03/10/surinsar-Jammu.html)  
+
+## *1. Sudhmahadev, Gaurikund & Mantalai, Udhampur-Jammu*
+Sudhmahadev is a revered Hindu pilgrimage site situated in the Chenani tehsil of Udhampur district, in the Jammu region of Jammu and Kashmir. 
 
 # **Uttrakhand**
 ## *1. Sariyatal Lake, Nanital, Uttrakhand*
@@ -19,9 +22,4 @@ Sariyatal Lake is a beautiful, serene lake located near Nainital in the state of
 
 [Go to Sariyatal, Nanital Post](https://bsgh1107.github.io/blog/travel/2025/03/13/Sariyatal-Nanital.html)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
 
-
-[jekyll-organization]: https://github.com/jekyll
