@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Trimbakeshwar Jyotirlinga"
+title:  "Trimbakeshwar Jyotirlinga, Nashik"
 date:   2025-05-19
 categories: [blog, Travel]
 author: "Balbir Singh Aithemia"
