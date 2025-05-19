@@ -34,6 +34,9 @@ The present-day Somnath temple  was built by Sardar Vallabhbhai Patel, India's f
 
 
 ## *8. Trimbakeshwar (Trimbak) – Trimbak, near Nashik, Maharashtra.*
+The Trimbakeshwar Shiva Temple, located in Trimbak near Nashik, Maharashtra, is one of the twelve Jyotirlingas—the holiest shrines dedicated to Lord Shiva. The temple is mentioned in several ancient Hindu scriptures, including the Skanda Purana, Padma Purana, and Shiva Purana.  
+
+[Go to Dwarkadish, Somnath & Nageshwar Post](https://bsgh1107.github.io/blog/travel/2025/03/11/Dwarka-Somnath-Gujrat.html)
 
 
 ## *9. Vaidyanath - Deoghar Jharkhand.*
