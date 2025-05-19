@@ -45,7 +45,7 @@ The Trimbakeshwar Shiva Temple, located in Trimbak near Nashik, Maharashtra, is 
 ## *10. Nageshwar – Dwarka, Gujarat.*
 Nageshwar is home to the tenth Jyotirlinga temple. According to legend, a demon named Daruka imprisoned a Shiva devotee named Supriya in his city, Darukavana. Supriya's chants of "Om Namah Shivaya" invoked Lord Shiva, who defeated the demon. A self-manifested Shivalinga then appeared, which is now revered as the Nageshwar Jyotirlinga.  
 
-[Go to Dwarkadish, Somnath & Nageshwar Post](https://bsgh1107.github.io/blog/travel/2025/03/11/Dwarka-Somnath-Gujrat.html)
+[Go to Trimbakeshwar, Nashik Post](https://bsgh1107.github.io/blog/travel/2025/05/19/Trimbakeshwar-Nashik.html)
 
 ## *11. Ramanathaswamy – Rameswaram in Tamil Nadu.*
 

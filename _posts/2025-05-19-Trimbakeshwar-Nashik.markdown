@@ -9,10 +9,10 @@ author: "Balbir Singh Aithemia"
 
 
 # **Itinerary: 1 night & 2 days from Pune**
-Day1    : Delhi to Rajkot, 2hrs Flight.  
-Day1    : Rajkot to Dwarka, 4hrs Vande Bharat Train.  
-Night1  : Stay in a Hotel in dwarka.  
-Day2    : Dwarkadish, Bet Dwarka, Nageshwar.  
+Day1    : Pune to Nahsik via Car. 
+Day1    : Visit Trimbakeshwar Jyotirlinga. 
+Night1  : Stay in a Hotel in Nashink.  
+Day2    : Visit Panchvati and surpunding Temples and backe to Pune.  
 
  
 # **Route map from Delhi** 
