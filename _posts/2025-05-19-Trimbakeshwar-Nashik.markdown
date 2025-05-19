@@ -9,8 +9,8 @@ author: "Balbir Singh Aithemia"
 
 
 # **Itinerary: 1 night & 2 days from Pune**
-Day1    : Pune to Nahsik via Car. 
-Day1    : Visit Trimbakeshwar Jyotirlinga. 
+Day1    : Pune to Nahsik via Car.  
+Day1    : Visit Trimbakeshwar Jyotirlinga.  
 Night1  : Stay in a Hotel in Nashink.  
 Day2    : Visit Panchvati and surpunding Temples and backe to Pune.  
 
