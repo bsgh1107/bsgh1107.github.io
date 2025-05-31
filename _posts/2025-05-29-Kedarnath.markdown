@@ -39,15 +39,17 @@ By around 11:00 AM, we reached the bus stand and managed to hire a Maruti Ertiga
 
 The drive took approximately 7 hours. Along the way, we passed through some beautiful locations:
 
-    - **Devprayag**, a stunning spot where the Bhagirathi and Alaknanda rivers merge to form the sacred River Ganga. The confluence of these rivers, with their distinctly colored waters, is a breathtaking sight and attracts many tourists.
+    - Devprayag, a stunning spot where the Bhagirathi and Alaknanda rivers merge to form the sacred River Ganga. The confluence of these rivers, with their distinctly colored waters, is a breathtaking sight and attracts many tourists.
 
-    - **Srinagar**, a major town in the Pauri Garhwal district, where the road runs parallel to the Alaknanda River.
+    - Srinagar, a major town in the Pauri Garhwal district, where the road runs parallel to the Alaknanda River.
 
-    - **Rudraprayag**, where the Mandakini River joins the Alaknanda. From here, the road follows the banks of the Mandakini River.
+    - Rudraprayag, where the Mandakini River joins the Alaknanda. From here, the road follows the banks of the Mandakini River.
+
+      
 
     We then continued our journey through Ukhimath and Guptkashi, eventually reaching our hotel in Sirsi, located near Phata in the Sonprayag region
 
-Dos and Dont's:
+# Dos and Dont's:    
     - Do book a hotel near the Rishikesh Bus Stand if you plan to travel by bus or want the convenience of hiring a taxi on the spot. Alternatively, arrange a taxi in advance that can pick you up directly from your hotel the next morning for Sonprayag.
 
     - Make sure to withdraw enough cash in Rishikesh for the rest of your journey, as ATMs may be scarce or unreliable in the mountain regions
@@ -66,7 +68,7 @@ Just before the jeep stand, there are registration counters where your Yatra reg
 This is where a shuttle jeep service operates between Sonprayag and Gaurikund, covering a distance of about 4.5 km. The road is very narrow, and it’s common to experience traffic jams, especially when jeeps traveling in opposite directions have to make way for each other.
 
 
-Dos and Dont's:
+# Dos and Dont's:  
     - If you're planning to reach Kedarnath via trekking, it's highly recommended to book your hotel near the Sonprayag Bus Stand or, even better, closer to the Gaurikund Jeep Stand.
     -Doing so can save you 2–3 hours of travel time and spare you from a long and tiring walk just to get to the starting point at Gaurikund.
 
