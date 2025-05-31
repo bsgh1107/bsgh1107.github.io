@@ -50,11 +50,11 @@ We then continued our journey through Ukhimath and Guptkashi, eventually reachin
 
 # Dos and Dont's:    
     - Do book a hotel near the Rishikesh Bus Stand if you plan to travel by bus or want the  
-    convenience of hiring a taxi on the spot. Alternatively, arrange a taxi in advance that  
-    can pick you up directly from your hotel the next morning for Sonprayag.
+        convenience of hiring a taxi on the spot. Alternatively, arrange a taxi in advance that  
+        can pick you up directly from your hotel the next morning for Sonprayag.
 
     - Make sure to withdraw enough cash in Rishikesh for the rest of your journey, as ATMs may  
-     be scarce or unreliable in the mountain regions
+        be scarce or unreliable in the mountain regions
 
 
 ## 1. Sonprayag
@@ -95,8 +95,25 @@ We reached Gaurikund around 8:00–8:15 AM. This is the last point before the tr
 
 
 ## 3. Kedarnath Trek
-We started our trekking arpund 9AM from Gaurikund
+We began our trek from Gaurikund around 9:00 AM. As you ascend just 2–3 kilometers, on a clear and sunny day, the first glimpses of the snow-covered Kedarnath glaciers start to appear. The Mandakini River flows gracefully alongside the trail, and with every kilometer, you're greeted by the majestic mountains, cascading waterfalls, and breathtaking landscapes that make this journey truly enchanting.
 
+Our first stop was at Jungle Chatti, roughly 3–4 kilometers from the starting point. We took a short break to rest, hydrate, and recharge ourselves with snacks and lemon drinks to maintain our energy levels.
+
+The next major halt was at Rambara, where we stopped for lunch. From here, the terrain becomes significantly steeper, and you can see the trail winding up into cloud-covered peaks. At Rambara, you cross a metal bridge over the Mandakini River, marking the beginning of the most challenging stretch of the trek.
+
+Just after this point, and a few steep switchbacks later, we reached Choti Lincholi. The climb from Choti Lincholi to Lincholi Top is arguably the toughest part of the trek. Along this stretch, the first views of the Kedarnath Base Camp come into sight—still distant but deeply motivating. We crossed patches of ice and glaciers, and despite the physical strain, the raw beauty of the Himalayas kept our spirits high. Between Choti Lincholi and Lincholi, it rained twice, and we had to quickly put on our raincoats.
+
+As we neared Lincholi Top, one of our friends became so exhausted that he had to hire a horse to reach the Horse Camp near the Base Camp. Two of our other friends had fallen behind, so I decided to complete the final stretch alone.
+
+I reached the Kedarnath Base Camp around 6:15 PM. One friend, who had arrived earlier on horseback, had already gone ahead to the Kedarnath Temple and was in the process of arranging a hotel room nearby. I initially waited at the base camp for my other two friends, who were still near Lincholi Top, but exhaustion was taking over.
+
+My body was drained, and every part of me wanted rest—but something deep within urged me to keep going. The hotel was still 1.5 to 2 kilometers away from the base camp, situated just 50 meters from the temple. As soon as I started walking and caught the first full view of the Kedarnath Temple, surrounded by the endless beauty of the mountains, all my fatigue seemed to disappear.
+
+I reached the temple stairs just in time for the Kedar Aarti at 7:00 PM. The enchanting chants, the sight of the temple glowing under the fading light, and the overwhelming presence of Lord Shiva made me feel like I had stepped into another world. Sitting there, clicking photos and capturing the divine atmosphere, I was overcome with emotion—I felt like crying and laughing at the same time. It was a moment of pure surrender, of connecting with something far greater than myself.
+
+After about 10 minutes, I called the friend who had arranged our room. He was equally mesmerized by the temple's aura and was sipping tea at a nearby shop. Seeing me so worn out, he offered me his tea, saying I needed it more than he did.
+
+We finally made our way to the hotel. The moment I entered the room, my body went into shock—not from illness, but from sheer exhaustion. I took a paracetamol and a muscle relaxant, collapsed onto the bed, and asked my friend to let me sleep undisturbed for a few hours. I told him to inform the others not to wake me up when they arrived. I needed rest—deep, healing rest—after one of the most challenging and unforgettable days of my life.
 
 # Har Har Mahadev !!!!
 Thanks to my friends, Saurabh and Atmesh, who joined me on this my trips.
