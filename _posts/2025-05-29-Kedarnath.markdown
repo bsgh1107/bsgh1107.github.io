@@ -35,8 +35,7 @@ We landed at Jolly Grant Airport in Dehradun around 5:30 PM and hired a cab to R
 
 The next morning, one of our friends suggested we try public transportation to reach Sonprayag. We headed to the Badrinath Highway, where buses to Sonprayag usually pass by. However, every bus we saw was already fully occupied from Rishikesh itself. We waited for 30 to 40 minutes, hoping to find vacant seats, but none were available. Eventually, we decided to return to the Rishikesh Bus Stand and try hiring a taxi or booking a bus from there.
 
-By around 11:00 AM, we reached the bus stand and managed to hire a Maruti Ertiga for ₹5,500 to take us to Sirsi, near Sonprayag.
-
+By around 11:00 AM, we reached the bus stand and managed to hire a Maruti Ertiga for ₹5,500 to take us to Sirsi, near Sonprayag.  
 The drive took approximately 7 hours. Along the way, we passed through some beautiful locations:  
 
 Devprayag, a stunning spot where the Bhagirathi and Alaknanda rivers merge to form the sacred River Ganga. The confluence of these rivers, with their distinctly colored waters, is a breathtaking sight and attracts many tourists.  
@@ -46,6 +45,8 @@ Srinagar, a major town in the Pauri Garhwal district, where the road runs parall
 Rudraprayag, where the Mandakini River joins the Alaknanda. From here, the road follows the banks of the Mandakini River.  
 
 We then continued our journey through Ukhimath and Guptkashi, eventually reaching our hotel in Sirsi, located near Phata in the Sonprayag region
+
+
 
 # Dos and Dont's:    
     - Do book a hotel near the Rishikesh Bus Stand if you plan to travel by bus or want the  
