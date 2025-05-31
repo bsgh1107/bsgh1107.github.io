@@ -72,9 +72,10 @@ This is where a shuttle jeep service operates between Sonprayag and Gaurikund, c
 
 # Dos and Dont's:  
     - If you're planning to reach Kedarnath via trekking, it's highly recommended to book  
-     your hotel near the Sonprayag Bus Stand or, even better, closer to the Gaurikund Jeep Stand.
-    -Doing so can save you 2–3 hours of travel time and spare you from a long and tiring walk  
-     just to get to the starting point at Gaurikund.
+        your hotel near the Sonprayag Bus Stand or, even better, closer to the Gaurikund  
+        Jeep Stand.
+    - Doing so can save you 2–3 hours of travel time and spare you from a long and tiring  
+        walk just to get to the starting point at Gaurikund.
 
 
 ![Dwarkadish Temple](/assets/images/Dwarkadish.jpg)
@@ -87,10 +88,10 @@ The area is home to the Gauri Devi Temple, a modest yet revered shrine dedicated
 Gaurikund was also known for its natural hot water spring, which served as a ritual bathing spot for devotees before commencing the yatra.
 We reached Gaurikund around 8:00–8:15 AM. This is the last point before the trek to Kedarnath begins, so it's a good place to buy essential supplies such as medicines, rain gear, trekking sticks, and other necessities. You can also withdraw cash from the ATM here—if it’s working. It’s a great spot to prepare yourself for the actual trek ahead.
 
-Dos and Dont's:
-    - If you plan to trek to Kedarnath, try to book a hotel in Gaurikund itself and arrive  
-     at least one day before starting your trek. This will help you rest and prepare properly  
-      for the journey ahead.
+# Dos and Dont's:  
+    - If you plan to trek to Kedarnath, try to book a hotel in Gaurikund itself and
+        arrive at least one day before starting your trek. This will help you rest and  
+        prepare properly for the journey ahead.
 
 
 ## 3. Kedarnath Trek
