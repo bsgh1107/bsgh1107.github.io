@@ -37,22 +37,23 @@ The next morning, one of our friends suggested we try public transportation to r
 
 By around 11:00 AM, we reached the bus stand and managed to hire a Maruti Ertiga for ₹5,500 to take us to Sirsi, near Sonprayag.
 
-The drive took approximately 7 hours. Along the way, we passed through some beautiful locations:
+The drive took approximately 7 hours. Along the way, we passed through some beautiful locations:  
 
-    - Devprayag, a stunning spot where the Bhagirathi and Alaknanda rivers merge to form the sacred River Ganga. The confluence of these rivers, with their distinctly colored waters, is a breathtaking sight and attracts many tourists.
+Devprayag, a stunning spot where the Bhagirathi and Alaknanda rivers merge to form the sacred River Ganga. The confluence of these rivers, with their distinctly colored waters, is a breathtaking sight and attracts many tourists.  
 
-    - Srinagar, a major town in the Pauri Garhwal district, where the road runs parallel to the Alaknanda River.
+Srinagar, a major town in the Pauri Garhwal district, where the road runs parallel to the Alaknanda River.  
 
-    - Rudraprayag, where the Mandakini River joins the Alaknanda. From here, the road follows the banks of the Mandakini River.
+Rudraprayag, where the Mandakini River joins the Alaknanda. From here, the road follows the banks of the Mandakini River.  
 
-      
-
-    We then continued our journey through Ukhimath and Guptkashi, eventually reaching our hotel in Sirsi, located near Phata in the Sonprayag region
+We then continued our journey through Ukhimath and Guptkashi, eventually reaching our hotel in Sirsi, located near Phata in the Sonprayag region
 
 # Dos and Dont's:    
-    - Do book a hotel near the Rishikesh Bus Stand if you plan to travel by bus or want the convenience of hiring a taxi on the spot. Alternatively, arrange a taxi in advance that can pick you up directly from your hotel the next morning for Sonprayag.
+    - Do book a hotel near the Rishikesh Bus Stand if you plan to travel by bus or want the  
+    convenience of hiring a taxi on the spot. Alternatively, arrange a taxi in advance that  
+    can pick you up directly from your hotel the next morning for Sonprayag.
 
-    - Make sure to withdraw enough cash in Rishikesh for the rest of your journey, as ATMs may be scarce or unreliable in the mountain regions
+    - Make sure to withdraw enough cash in Rishikesh for the rest of your journey, as ATMs may  
+     be scarce or unreliable in the mountain regions
 
 
 ## 1. Sonprayag
@@ -69,8 +70,10 @@ This is where a shuttle jeep service operates between Sonprayag and Gaurikund, c
 
 
 # Dos and Dont's:  
-    - If you're planning to reach Kedarnath via trekking, it's highly recommended to book your hotel near the Sonprayag Bus Stand or, even better, closer to the Gaurikund Jeep Stand.
-    -Doing so can save you 2–3 hours of travel time and spare you from a long and tiring walk just to get to the starting point at Gaurikund.
+    - If you're planning to reach Kedarnath via trekking, it's highly recommended to book  
+     your hotel near the Sonprayag Bus Stand or, even better, closer to the Gaurikund Jeep Stand.
+    -Doing so can save you 2–3 hours of travel time and spare you from a long and tiring walk  
+     just to get to the starting point at Gaurikund.
 
 
 ![Dwarkadish Temple](/assets/images/Dwarkadish.jpg)
@@ -84,7 +87,9 @@ Gaurikund was also known for its natural hot water spring, which served as a rit
 We reached Gaurikund around 8:00–8:15 AM. This is the last point before the trek to Kedarnath begins, so it's a good place to buy essential supplies such as medicines, rain gear, trekking sticks, and other necessities. You can also withdraw cash from the ATM here—if it’s working. It’s a great spot to prepare yourself for the actual trek ahead.
 
 Dos and Dont's:
-    - If you plan to trek to Kedarnath, try to book a hotel in Gaurikund itself and arrive at least one day before starting your trek. This will help you rest and prepare properly for the journey ahead.
+    - If you plan to trek to Kedarnath, try to book a hotel in Gaurikund itself and arrive  
+     at least one day before starting your trek. This will help you rest and prepare properly  
+      for the journey ahead.
 
 
 ## 3. Kedarnath Trek
