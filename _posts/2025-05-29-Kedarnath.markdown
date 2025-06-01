@@ -46,6 +46,9 @@ Rudraprayag, where the Mandakini River joins the Alaknanda. From here, the road 
 
 We then continued our journey through Ukhimath and Guptkashi, eventually reaching our hotel in Sirsi, located near Phata in the Sonprayag region
 
+![Rishikesh](/assets/images/Rishikesh.jpg)
+![Devprayag Sanskrit University](/assets/images/Devprayag.jpg)
+
 
 
 # Dos and Dont's:    
@@ -70,6 +73,8 @@ Just before the jeep stand, there are registration counters where your Yatra reg
 This is where a shuttle jeep service operates between Sonprayag and Gaurikund, covering a distance of about 4.5 km. The road is very narrow, and it’s common to experience traffic jams, especially when jeeps traveling in opposite directions have to make way for each other.
 
 
+![Sonprayag Bus Stand](/assets/images/Sonprayag.jpg)
+
 # Dos and Dont's:  
     - If you're planning to reach Kedarnath via trekking, it's highly recommended to book  
         your hotel near the Sonprayag Bus Stand or, even better, closer to the Gaurikund  
@@ -87,6 +92,10 @@ The area is home to the Gauri Devi Temple, a modest yet revered shrine dedicated
 
 Gaurikund was also known for its natural hot water spring, which served as a ritual bathing spot for devotees before commencing the yatra.
 We reached Gaurikund around 8:00–8:15 AM. This is the last point before the trek to Kedarnath begins, so it's a good place to buy essential supplies such as medicines, rain gear, trekking sticks, and other necessities. You can also withdraw cash from the ATM here—if it’s working. It’s a great spot to prepare yourself for the actual trek ahead.
+
+
+![Gaurikund](/assets/images/GaurikundKedar.jpg)
+
 
 # Dos and Dont's:  
     - If you plan to trek to Kedarnath, try to book a hotel in Gaurikund itself and
@@ -115,8 +124,57 @@ After about 10 minutes, I called the friend who had arranged our room. He was eq
 
 We finally made our way to the hotel. The moment I entered the room, my body went into shock—not from illness, but from sheer exhaustion. I took a paracetamol and a muscle relaxant, collapsed onto the bed, and asked my friend to let me sleep undisturbed for a few hours. I told him to inform the others not to wake me up when they arrived. I needed rest—deep, healing rest—after one of the most challenging and unforgettable days of my life.
 
+
+![Jungle Chatti, Kedar Trek](/assets/images/Junglechatti.jpg)  
+![Rambara, Kedar Trek](/assets/images/Rambara.jpg)
+![Base Camp, Kedar Trek](/assets/images/Basecamp.jpg)
+![Kedar View, Kedar Trek](/assets/images/Kedarview.jpg)
+![Kedar Temple, Kedar Trek](/assets/images/Kedarnath.jpg)
+# Dos and Dont's:  
+    - Keep yourself hydrated all through the trek.
+    - Carry the lightest luggage bas as much as possible.
+    - Keep taking short breaks after every fewm meters and keep eating.
+
+## 3. Kedarnath Temple Darshan
+The Kedarnath Temple, nestled in the Himalayas of Uttarakhand, is one of the most sacred shrines in India, dedicated to Lord Shiva, the destroyer and transformer within the Hindu Trimurti. It is the highest located Jyotirlinga among the twelve Jyotirlingas of Lord Shiva, revered deeply by millions of devotees.
+
+According to legend, following the Mahabharata war, the Pandavas sought Lord Shiva’s forgiveness for the sins committed during the battle. Shiva, avoiding their plea, disguised himself as a bull. When the Pandavas recognized him, he attempted to vanish into the earth. Bhima managed to catch hold of the bull’s hump, which remained at Kedarnath, while the other body parts surfaced at four other locations—forming the sacred Panch Kedar circuit.
+
+The present stone temple is believed to have been originally built by the Pandavas and later restored in the 8th century CE by Adi Shankaracharya, who is said to have attained mahasamadhi near the temple premises.
+
+An awe-inspiring element near the temple is the Bhimshila, a massive boulder that, according to local belief, came rolling down during the catastrophic 2013 Uttarakhand floods and miraculously stopped just behind the temple, protecting it from destruction. The temple stood firm even as the surrounding area was devastated—deepening the faith in its divine protection and spiritual power.
+
+The main door (mukhya dwar) of the Kedarnath Temple closes at 9:00 PM every night. However, a side entrance remains open and is used when the main door reopens at 4:00 AM for early morning darshan. Through this side door, sparsh darshan (touch darshan) is allowed for devotees who have arranged VIP entry passes, which cost around ₹1100.
+
+We had pre-arranged a VIP Sparsh Darshan and joined the queue at around 11:00 PM. Inside the temple, we were accompanied by a priest (pandit) who guided us into the garbhagriha (sanctum sanctorum) of the temple. There, we had the rare and divine opportunity to touch the sacred lingam of Baba Kedarnath and offer our prayers up close.
+
+Inside the temple, just outside the sanctum, you can see statues of the five Pandavas and Draupadi, positioned as a mark of their devotion to Lord Shiva. After completing our sparsh darshan and paying our respects to Lord Shiva, we exited the sanctum. To the left of the garbhagriha, there is an idol of Goddess Parvati (Mata Amba), where we also offered our prayers and received blessings.
+
+As we stepped out of the main temple, we noticed a stream flowing beneath the stone floor just behind the shrine—this is the Kedar Ganga, a sacred water stream believed to originate near the temple itself. Several sadhus (holy men) sat nearby, filling pots with the holy water for devotees to take home as prasad. We too filled the small bottles that came with our prasad packets with this sacred water, taking it back with us as a divine souvenir from our spiritual journey.
+
+Since it was already late at night, we decided to rest and planned to explore the temple complex and nearby sacred sites early the next morning.
+
+The next morning, we woke up early and visited the Bhimshila, located just behind the main Kedarnath temple. This massive boulder, believed to have miraculously saved the temple during the devastating 2013 floods, stands as a symbol of divine protection. We also took time to capture the serene beauty of the Kedar Valley on our phones. It was hard to say goodbye to such a divine environment, but it was time for us to begin our return journey to Sonprayag.
+
+The previous night, we had already discussed the possibility of not trekking back on foot, given the exhaustion from the ascent. Though hiring horses was one option, I wasn’t fully convinced about taking that route either. So, we began exploring the possibility of arranging a helicopter ride back.
+
+One of my friends, who had flown in from Varanasi, used his local contacts and, against all odds, managed to secure return helicopter tickets for us. It's important to mention that getting a helicopter ticket on the spot is extremely difficult, especially during peak season, but we were fortunate and grateful to have managed it through his network.
+
+We waited near the helipad until around 2:00 PM, and finally boarded the helicopter. Within just 10 minutes, we were back in Sonprayag, skipping the long and tiring descent and ending our spiritual adventure on a note of awe and gratitude.
+
+![Temple, Kedarnath](/assets/images/KedarnathTemple.jpg)
+![Temple1, Kedarnath](/assets/images/KedarnathTemple1.jpg)
+![Bhim Shila, Kedarnath](/assets/images/Bhimshila.jpg)
+
+## 4. Journey back from Sonprayag to Rishikesh and then to Delhi.
+We landed back at the Sonprayag helipad around 3:00 PM, where we took a short break, had some tea and snacks, and then hired an Ertiga taxi for ₹6,500 to return to Rishikesh. The journey took several hours, and we finally reached Rishikesh around 11:30 PM, checking into a hotel near Ram Jhula for the night.
+
+The next morning, we boarded our pre-booked Zing Bus, reserved via RedBus, around 9:00 AM from the Zing Bus pickup point at Nepali Farm. By late afternoon, we arrived at Kashmiri Gate ISBT in Delhi, from where we took the metro to reach our respective homes—bringing our unforgettable Kedarnath yatra to a peaceful close.
+
+
 # Har Har Mahadev !!!!
-Thanks to my friends, Saurabh and Atmesh, who joined me on this my trips.
+
+A heartfelt thank you to my friends, Atmesh, Mukesh, and Raman, who joined me on this incredible journey. Your companionship, support, and shared enthusiasm made this trip to Kedarnath truly memorable. It wouldn't have been the same without you.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
