@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kedarnath Jyotirlinga"
+title:  "Kedarnath Jyotirlinga, Uttarakhand"
 date:   2025-05-29
 categories: [blog, Travel]
 author: "Balbir Singh Aithemia"
@@ -25,7 +25,7 @@ Day5    : Back to Delhi via Bus.
 
 Refer route details in the google map:
 
-[Route map and transport details from Delhi]()
+[Route map and transport details from Delhi](https://www.google.com/maps/d/edit?mid=1SYRB8SVoPobbXvy78Wvxsj5qpyKiuGY&ll=29.636391552615223%2C78.09470615000001&z=8)
 
 
 # **Journey**
@@ -83,7 +83,6 @@ This is where a shuttle jeep service operates between Sonprayag and Gaurikund, c
         walk just to get to the starting point at Gaurikund.
 
 
-![Dwarkadish Temple](/assets/images/Dwarkadish.jpg)
 
 ## 2. Gaurikund
 Gaurikund, named after Goddess Parvati (also known as Gauri), holds deep mythological and spiritual importance. According to Hindu beliefs, this is the sacred site where Parvati undertook intense penance (tapasya) to win the love and hand of Lord Shiva in marriage.
@@ -101,6 +100,7 @@ We reached Gaurikund around 8:00–8:15 AM. This is the last point before the tr
     - If you plan to trek to Kedarnath, try to book a hotel in Gaurikund itself and
         arrive at least one day before starting your trek. This will help you rest and  
         prepare properly for the journey ahead.
+
 
 
 ## 3. Kedarnath Trek
@@ -126,14 +126,20 @@ We finally made our way to the hotel. The moment I entered the room, my body wen
 
 
 ![Jungle Chatti, Kedar Trek](/assets/images/Junglechatti.jpg)  
-![Rambara, Kedar Trek](/assets/images/Rambara.jpg)
-![Base Camp, Kedar Trek](/assets/images/Basecamp.jpg)
-![Kedar View, Kedar Trek](/assets/images/Kedarview.jpg)
-![Kedar Temple, Kedar Trek](/assets/images/Kedarnath.jpg)
+
+![Rambara, Kedar Trek](/assets/images/Rambara.jpg)  
+
+![Base Camp, Kedar Trek](/assets/images/Basecamp.jpg)  
+
+![Kedar View, Kedar Trek](/assets/images/Kedarview.jpg)  
+
+![Kedar Temple, Kedar Trek](/assets/images/Kedarnath.jpg)  
+
 # Dos and Dont's:  
     - Keep yourself hydrated all through the trek.
     - Carry the lightest luggage bas as much as possible.
     - Keep taking short breaks after every fewm meters and keep eating.
+  
 
 ## 3. Kedarnath Temple Darshan
 The Kedarnath Temple, nestled in the Himalayas of Uttarakhand, is one of the most sacred shrines in India, dedicated to Lord Shiva, the destroyer and transformer within the Hindu Trimurti. It is the highest located Jyotirlinga among the twelve Jyotirlingas of Lord Shiva, revered deeply by millions of devotees.
@@ -162,9 +168,12 @@ One of my friends, who had flown in from Varanasi, used his local contacts and, 
 
 We waited near the helipad until around 2:00 PM, and finally boarded the helicopter. Within just 10 minutes, we were back in Sonprayag, skipping the long and tiring descent and ending our spiritual adventure on a note of awe and gratitude.
 
-![Temple, Kedarnath](/assets/images/KedarnathTemple.jpg)
-![Temple1, Kedarnath](/assets/images/KedarnathTemple1.jpg)
+![Temple, Kedarnath](/assets/images/KedarnathTemple.jpg)  
+
+![Temple1, Kedarnath](/assets/images/KedarnathTemple1.jpg)  
+
 ![Bhim Shila, Kedarnath](/assets/images/Bhimshila.jpg)
+  
 
 ## 4. Journey back from Sonprayag to Rishikesh and then to Delhi.
 We landed back at the Sonprayag helipad around 3:00 PM, where we took a short break, had some tea and snacks, and then hired an Ertiga taxi for ₹6,500 to return to Rishikesh. The journey took several hours, and we finally reached Rishikesh around 11:30 PM, checking into a hotel near Ram Jhula for the night.
