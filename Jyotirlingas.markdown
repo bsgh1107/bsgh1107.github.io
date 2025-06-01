@@ -27,7 +27,7 @@ The present-day Somnath temple  was built by Sardar Vallabhbhai Patel, India's f
 ## *5. Kedarnath – Kedarnath in Uttarakhand.*
 The Kedarnath Temple, nestled in the Himalayas of Uttarakhand, is one of the most sacred shrines in India, dedicated to Lord Shiva, the destroyer and transformer within the Hindu Trimurti. It is the highest located Jyotirlinga among the twelve Jyotirlingas of Lord Shiva, revered deeply by millions of devotees.  
 
-[Go to Kedarnath, Uttrakhand Post](https://bsgh1107.github.io/blog/travel/2025/05/29/Kedarnath.html)
+[Go to Kedarnath, Uttrakhand Post](https://bsgh1107.github.io/blog/travel/2025/05/29/Kedarnath-Uttrakhand.html)
 
 ## *6. Bhimashankar – Pune, Maharashtra.*
 
