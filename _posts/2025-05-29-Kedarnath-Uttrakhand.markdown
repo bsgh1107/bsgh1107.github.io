@@ -29,7 +29,7 @@ Refer route details in the google map:
 
 
 # **Journey**
-Our journey began on the 22nd of May, 2024, from Delhi. We were a group of four friends—three from Delhi and one who had flown in from Varanasi to join us at Dehradun Airport.
+Our journey began on the 22nd of May, 2025, from Delhi. We were a group of four friends—three from Delhi and one who had flown in from Varanasi to join us at Dehradun Airport.
 
 We landed at Jolly Grant Airport in Dehradun around 5:30 PM and hired a cab to Rishikesh, which is approximately 18–20 km from the airport. The drive took about an hour and a half, and we reached our hotel located in the Neelkanth area, just beyond Tapovan in Rishikesh. After checking in, we had dinner and called it a night.
 
