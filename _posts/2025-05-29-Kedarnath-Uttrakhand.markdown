@@ -9,11 +9,11 @@ author: "Balbir Singh Aithemia"
 
 
 # **Itinerary: 4 night & 5 days**
-Day1    : Delhi to Dehradun Jolly Grant Airport, 1hr flight.    
+Day1    : Delhi to Dehradun Jolly Grant Airport via Air.    
 Night1  : Stay in a Hotel in Rishikesh.  
-Day2    : Hired a Taxi from Rishikesh to Sirsi, Phata.  
-Night2  : Stay in a Hotel Sirsi, phata.  
-Day3    : Taxi to Sonpprayag and then Gaurikund and start trek.  
+Day2    : Hire a Taxi from Rishikesh to Sirsi, Phata.  
+Night2  : Stay in a Hotel in Sirsi, phata.  
+Day3    : Taxi to Sonpprayag & Gaurikund and start trek.  
 Night3  : Kedarnath Darshan & Stay in a Hotel nearby. 
 Day4    : Helicopter to Sonprayag.  
 Day4    : Taxi from Sonprayag Helipad to Rishikesh.  
