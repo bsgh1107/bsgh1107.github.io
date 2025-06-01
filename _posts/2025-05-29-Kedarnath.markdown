@@ -53,11 +53,11 @@ We then continued our journey through Ukhimath and Guptkashi, eventually reachin
 
 # Dos and Dont's:    
     - Do book a hotel near the Rishikesh Bus Stand if you plan to travel by bus or want the  
-        convenience of hiring a taxi on the spot. Alternatively, arrange a taxi in advance that  
-        can pick you up directly from your hotel the next morning for Sonprayag.
+        convenience of hiring a taxi on the spot. Alternatively, arrange a taxi in advance  
+        that can pick you up directly from your hotel the next morning for Sonprayag.
 
-    - Make sure to withdraw enough cash in Rishikesh for the rest of your journey, as ATMs may  
-        be scarce or unreliable in the mountain regions
+    - Make sure to withdraw enough cash in Rishikesh for the rest of your journey, as ATMs  
+        may be scarce or unreliable in the mountain regions
 
 
 ## 1. Sonprayag
